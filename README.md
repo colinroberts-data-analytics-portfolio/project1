@@ -6,6 +6,7 @@ The analysis of coffee's relationship with weather is in the jupyter notebook ca
 
 
 Section: C ----------------------------------------
+
 Section: What countries produce the most coffee and does that affect the quality of coffee produced?
 
 Slide 1
@@ -35,6 +36,7 @@ What countries produce the most coffee and does that affect the quality of coffe
 
 ----------------------------------------------------------------------------
 Section: D ----------------------------------------
+
 Section : What countries consume the most coffee? Does the amount of coffee produced influence consumption?
 
 Slide 1 Description of Question:
