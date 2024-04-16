@@ -1,5 +1,10 @@
 # project1
 project1 coffee study 
+  <<<<<<< Paul/Padma---coffee-and-weather-code
+  This branch attempts to correlate quality and quantity of coffee with weather, especially rainfall and temperature
+main code is in Weathercoffee.ipynb file                      
+csv resources in data folder and saved figures of plots in out_data folder
+=======
 
 Presentation Requirements
 This section lists the Project 1 presentation requirements. Each group will prepare a formal, 10-minute presentation that covers the following points.
@@ -32,3 +37,4 @@ Presentation Day
 It’s crucial that you find time to rehearse before presentation day.
 
 On the day of your presentation, each member of your group is required to submit the URL of your GitHub repository for grading.
+  >>>>>>> main
