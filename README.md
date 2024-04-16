@@ -1,9 +1,7 @@
 # project1
 project1 coffee study 
-  <<<<<<< Paul/Padma---coffee-and-weather-code
-  This branch attempts to correlate quality and quantity of coffee with weather, especially rainfall and temperature
-main code is in Weathercoffee.ipynb file                      
-csv resources in data folder and saved figures of plots in out_data folder
+
+Purpose: We are an organization looking to start a coffee company. We are pulling together different data sets to analyze where the best location would be to grow for the highest quality coffee bean. We pulled data from various data sets to compare the quality, weather and production levels of various locations around the globe. We compared quality, consumption, prodcution and weather to see what makes the best coffee bean possible. 
 =======
 
 Presentation Requirements
